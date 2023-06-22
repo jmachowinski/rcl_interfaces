@@ -36,3 +36,5 @@ float64[] double_array_value
 
 # An array of string values.
 string[] string_array_value
+
+ParameterValue[] value_array_value
